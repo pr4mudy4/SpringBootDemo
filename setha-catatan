@@ -1,0 +1,8 @@
+=================SPRING-BOOT KONSEP======================
+
+ (dependency injection via constructor)
+1. membuat service (interface)
+2. membuat implements class
+3. membuat component class (constructor method) InjeksiViaConstructor
+4. di initialitation di SpringDemoApplication.java
+5. membuat component class (setter method) InjeksiViaSetter
