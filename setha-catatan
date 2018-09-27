@@ -6,3 +6,5 @@
 3. membuat component class (constructor method) InjeksiViaConstructor
 4. di initialitation di SpringDemoApplication.java
 5. membuat component class (setter method) InjeksiViaSetter
+6. membuat package aplikasi dan memindah SpringDemoApplication.java ke package aplikasi
+7. @ComponentScan("com.setha.SpringDemo") di tambah ke SpringDemoApplication.java
